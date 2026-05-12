@@ -19,5 +19,3 @@ Kauã Neves Schwambach
 Pedro Henrique Rodrigues Saturnino
 Ytalo Morais Rodrigues
 Wellington Luis Martins Filho
-
-trpa dos autistas
