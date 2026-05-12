@@ -1,4 +1,5 @@
 // monitoramento.js
+const hora = 23:55;
 const temp = 95;
 const LIMITE = 100;
 console.log(`Temperatura: ${temp}°C`);
@@ -6,4 +7,5 @@ if (temp > LIMITE) {
 console.log("ALERTA: LIMITE EXCEDIDO!");
 } else {
 console.log("Sistema normal.");
+conso.log ("hora");
 }
